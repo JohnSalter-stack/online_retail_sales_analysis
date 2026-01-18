@@ -3,7 +3,9 @@
 ## Overview
 This project analyses transactional data from an online retail business to uncover insights into revenue performance, customer behaviour, product contribution, and purchasing patterns over time.
 
-The project demonstrates an end-to-end analytics workflow, from data cleaning and modelling in MySQL to interactive dashboard development in Tableau.
+The project demonstrates an end-to-end analytics workflow, from data cleaning and modelling in MySQL to interactive dashboard development in Tableau. 
+
+Initial data validation and rule-based checks were performed in Excel prior to loading the dataset into MySQL for structured cleaning, modelling, and analysis.
 
 ---
 
@@ -69,3 +71,4 @@ Note: The full cleaned transactional dataset is not included in this repository 
 
 ## Author
 **John Salter Oseyi**
+
