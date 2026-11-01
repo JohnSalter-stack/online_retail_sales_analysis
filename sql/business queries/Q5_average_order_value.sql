@@ -4,7 +4,7 @@
 SELECT
     Invoice_Year,
     Invoice_Month,
-    SUM(Revenue) / COUNT(DISTINCT InvoiceNo) AS average_order_value
+    SUM(Revenue) / COUNT(DISTINCT CASE WHEN Is_Return = 0 THEN InvoiceNo END) AS average_order_value
 FROM online_retail_clean
 GROUP BY
     Invoice_Year,

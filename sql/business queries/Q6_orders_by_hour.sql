@@ -5,6 +5,7 @@ SELECT
     HOUR(Invoice_Time) AS order_hour,
     COUNT(DISTINCT InvoiceNo) AS total_orders
 FROM online_retail_clean
+WHERE Is_Return = 0
 GROUP BY
     HOUR(Invoice_Time)
 ORDER BY
