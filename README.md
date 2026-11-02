@@ -33,7 +33,7 @@ The business sells mainly to trade buyers across 37 markets but had no clear vie
 
 | Item | Detail |
 |---|---|
-| Source | [UCI Machine Learning Repository: Online Retail](https://archive.ics.uci.edu/dataset/352/online+retail) |
+| Source | [Chen, D. (2015). Online Retail [Dataset]. UCI Machine Learning Repository. https://doi.org/10.24432/C5BW33 |
 | Period | 1 December 2010 to 9 December 2011 |
 | Content | Invoice lines with product, quantity, unit price, customer ID, country and timestamp |
 | Scope after cleaning | 4,334 customers, 18,402 orders, 3,907 products, 37 markets |
