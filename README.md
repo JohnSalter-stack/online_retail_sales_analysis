@@ -3,7 +3,7 @@
 
 **SQL and Tableau Portfolio Project | Data Analyst**
 
-🔗 **Live dashboards:** [View on Tableau Public](PASTE_YOUR_TABLEAU_PUBLIC_LINK_HERE)
+🔗 **Live dashboards:** [View on Tableau Public](https://public.tableau.com/app/profile/john.oseyi6583/viz/OnlineRetailSalesAnalysis_17934570291280/ExecutiveOverview?publish=yes)
 
 ---
 
